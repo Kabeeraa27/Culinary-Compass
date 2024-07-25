@@ -1,2 +1,2 @@
-"*.HTML linguist-detectable=false" 
-"*.Jupyter linguist-detectable=true" 
+"*.ipynb linguist-detectable=true" 
+"* linguist-detectable=false" 
